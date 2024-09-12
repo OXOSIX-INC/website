@@ -150,10 +150,11 @@ header > * {
   
   .menu {
     background-color: #A9A9A9;
-    font-size: 1.2em;
+    font-size: 1.8em;
     position: fixed;
     top: 0px;
     width: 100vw;
+    /* height: 7vw; */
     z-index: 100;
   }
   
